@@ -1,0 +1,1 @@
+# elite-azure-vm-module
